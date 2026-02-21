@@ -80,6 +80,8 @@
     "ytdl-core": "^4.11.5"
   },
   "overrides": {
+    "minimatch": "^10.2.1",
+    "yargs-parser": "^21.1.1",
     "wa-sticker-formatter": {
       "sharp": "$sharp",
       "axios": "$axios",
